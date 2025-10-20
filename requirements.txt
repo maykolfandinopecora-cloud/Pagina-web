@@ -1,0 +1,7 @@
+ url=https://github.com/maykolfandinopecora-cloud/Pagina-web/blob/67e6760c7bf9485cd0c3ed0670278d564bf35245/app.py
+streamlit>=1.26.0
+pandas>=2.0.0
+Pillow>=9.0.0
+xlwings>=0.29.0
+plotly>=5.0.0
+openpyxl>=3.0.10
